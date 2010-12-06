@@ -1,7 +1,7 @@
 Summary:	A commandline metalink generator
 Name:		metalink
 Version:	0.3.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Networking/Other
 License:	GPLv3+
 URL:		http://metamirrors.nl/metalinks_project

@@ -47,3 +47,27 @@ rm -rf %{buildroot}
 %{_bindir}/metalink
 %{_mandir}/man1/*
 
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0.3.6-2mdv2011.0
++ Revision: 612851
+- the mass rebuild of 2010.1 packages
+
+* Mon Nov 09 2009 Oden Eriksson <oeriksson@mandriva.com> 0.3.6-1mdv2010.1
++ Revision: 463503
+- import metalink
+
+
+* Mon Nov 09 2009 Oden Eriksson <oeriksson@mandriva.com> 0.3.6-1mdv2010.0
+- initial Mandriva package (fedora import)
+
+* Sat Jul 25 2009 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.3.6-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_12_Mass_Rebuild
+
+* Mon Jan 05 2009 Ant Bryan <anthonybryan at gmail.com> - 0.3.6-2
+- New version, 0.3.6-2
+- man page, licensing clarification upstream.
+
+* Mon Dec 08 2008 Ant Bryan <anthonybryan at gmail.com> - 0.3.5-1
+- 0.3.5-1

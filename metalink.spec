@@ -4,7 +4,7 @@ Version:	0.3.6
 Release:	3
 Group:		Networking/Other
 License:	GPLv3+
-URL:		http://metamirrors.nl/metalinks_project
+URL:		https://metamirrors.nl/metalinks_project
 Source0:	http://downloads.sourceforge.net/metalinks/%{name}-%{version}.tar.gz
 BuildRequires:	boost-devel
 BuildRequires:	glibmm2.4-devel

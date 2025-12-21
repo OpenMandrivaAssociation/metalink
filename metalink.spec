@@ -6,6 +6,11 @@ Group:		Networking/Other
 License:	GPLv3+
 URL:		https://metamirrors.nl/metalinks_project
 Source0:	http://downloads.sourceforge.net/metalinks/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	boost-devel
 BuildRequires:	glibmm2.4-devel
 BuildRequires:	libgcrypt-devel
